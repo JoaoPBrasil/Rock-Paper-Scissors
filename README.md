@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# Rock Paper and Scissors
 Pt-BR: O jogo "Pedra, papel e tesoura" codado na linguagem Java.
 
 En: The game "Rock paper scissors" coded with Java's language.
